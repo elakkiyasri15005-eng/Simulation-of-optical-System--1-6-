@@ -22,3 +22,6 @@ TABULATION:
 GRAPH:
 <img width="964" height="1600" alt="image" src="https://github.com/user-attachments/assets/ce17180f-ad86-46ce-b629-a476343bbb9a" />
 
+Result
+Optical communication system is simulated and sample file is verified
+
