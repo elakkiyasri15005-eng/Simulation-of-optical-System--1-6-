@@ -1,4 +1,4 @@
-# Simulation-of-optical-System--1-6-
+ # Simulation-of-optical-System--1-6-
 Intoduction of Opticperfomer
 
 AIM: Download and install OptiPerformer software on your computer and run a sample file. . EQUIPMENTS REQUIRED: Optisystem Software – OptiPerformer 22.0
