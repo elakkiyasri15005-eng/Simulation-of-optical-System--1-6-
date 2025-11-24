@@ -17,7 +17,8 @@ Double click on the optical power meter and the BER analyzer and move the window
 The simulation is set to run 5 “iterations”, with the fiber length varying from 50 to 150 km in 5 steps. The index is displayed in the upper right corner of the layout. To step through the iterations, use the forward and reverse buttons in the lower left of the window. Note the change in received power and BER display (eye diagram, Q factor and BER) with fiber length.
 
 TABULATION:
-<img width="1600" height="1336" alt="image" src="https://github.com/user-attachments/assets/b3a4b6b2-5e54-4c2a-a8ef-fb4f018c005b" />
+![WhatsApp Image 2025-11-24 at 6 40 44 AM](https://github.com/user-attachments/assets/d482b165-8e44-426c-b203-d29860be1bbb)
+
 GRAPH:
 <img width="964" height="1600" alt="image" src="https://github.com/user-attachments/assets/ce17180f-ad86-46ce-b629-a476343bbb9a" />
 
